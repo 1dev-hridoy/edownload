@@ -1,77 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
+# eDownload: Ultimate YouTube Video Downloader 🚀
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>eDownload - README</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f5f5f5;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            min-height: 100vh;
-        }
+Welcome to eDownload, where video downloads become an art! Unleash the power of unlimited possibilities as you shape your YouTube experience. Download videos in any quality, any format, and in a blink.
 
-        .readme-container {
-            max-width: 800px;
-            background-color: #fff;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
+## Features 🌟
 
-        h1 {
-            color: #3498db;
-        }
+- **Quality Matters:** Choose from a range of video resolutions, from crisp SD to dazzling HD.
+- **Format Freedom:** MP4, FLV, MKV - you name it, you download it!
+- **User-Friendly Magic:** Copy, paste, select, and watch the download magic happen.
+- **Lightning-Fast:** Say goodbye to waiting, and hello to instant gratification.
+- **Smart Batching:** Queue up multiple URLs for a seamless, efficient download spree.
+- **Offline Bliss:** Your downloaded videos, your rules. Enjoy them anywhere, anytime.
+- **Secure & Private:** Your privacy is our priority. Download confidently.
 
-        p {
-            color: #555;
-            line-height: 1.6;
-        }
+## How to Use 🚀
 
-        a {
-            color: #3498db;
-            text-decoration: none;
-            font-weight: bold;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-
-<body>
-
-    <div class="readme-container">
-        <h1>eDownload - Ultimate YouTube Video Downloader</h1>
-        <p>Download any YouTube video in your preferred quality and format with eDownload! Fast, flexible, and private.</p>
-        <p>🚀 Elevate your video experience now!</p>
-        <p><a href="#installation">Installation</a> | <a href="#usage">Usage</a> | <a href="#contributing">Contributing</a></p>
-        <p><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></p>
-        <hr>
-        <h2 id="installation">Installation</h2>
-        <pre>
-            <code>git clone https://github.com/your-username/eDownload.git
-cd eDownload
-# Open index.html in your favorite browser</code>
-        </pre>
-        <h2 id="usage">Usage</h2>
-        <p>1. Copy the YouTube video URL.</p>
-        <p>2. Paste it into eDownload.</p>
-        <p>3. Select your preferred quality and format.</p>
-        <p>4. Hit download and watch the magic happen!</p>
-        <h2 id="contributing">Contributing</h2>
-        <p>Contributions are welcome! Please fork the repo and create a pull request.</p>
-    </div>
-
-</body>
-
-</html>
-
+1. Copy your YouTube video URL.
+2. Paste it into eDownload.
+3. Choose quality and format.
+4. Hit download and let the awesomeness begin!
